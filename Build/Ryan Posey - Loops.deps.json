@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ryan Posey - Loops/1.0.0": {
+        "runtime": {
+          "Ryan Posey - Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ryan Posey - Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
