@@ -1,0 +1,13 @@
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\bin\Debug\netcoreapp3.1\Ryan Posey - Loops.exe
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\bin\Debug\netcoreapp3.1\Ryan Posey - Loops.deps.json
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\bin\Debug\netcoreapp3.1\Ryan Posey - Loops.runtimeconfig.json
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\bin\Debug\netcoreapp3.1\Ryan Posey - Loops.runtimeconfig.dev.json
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\bin\Debug\netcoreapp3.1\Ryan Posey - Loops.dll
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\bin\Debug\netcoreapp3.1\Ryan Posey - Loops.pdb
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\obj\Debug\netcoreapp3.1\Ryan Posey - Loops.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\obj\Debug\netcoreapp3.1\Ryan Posey - Loops.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\obj\Debug\netcoreapp3.1\Ryan Posey - Loops.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\obj\Debug\netcoreapp3.1\Ryan Posey - Loops.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\obj\Debug\netcoreapp3.1\Ryan Posey - Loops.dll
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\obj\Debug\netcoreapp3.1\Ryan Posey - Loops.pdb
+C:\Users\Ryan\source\repos\Ryan Posey - Loops\obj\Debug\netcoreapp3.1\Ryan Posey - Loops.genruntimeconfig.cache
